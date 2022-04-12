@@ -38,8 +38,8 @@ public class LoginServiceImpl implements LoginService {
 
 	static {
 
-		users.add(new User(1, "Shubham", "Gupta", "shubham123", "Shubham@123", "shubham@gmail.com", 8090266899l));
-		users.add(new User(2, "Rahul", "Kandu", "rahul123", "Rahul@123", "rahul@gmail.com", 8795251972l));
+		users.add(new User(1, "Tulasi", "varre", "tulasi563", "tulasivarre@563", "tulasivarre@gmail.com", 784356882));
+		users.add(new User(2, "Sai", "Kummaraguntla", "sai123", "sai@123", "sai@gmail.com", 989576462));
 
 	}
 
